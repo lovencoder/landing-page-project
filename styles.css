@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee:ital,wght@0,400;1,900&display=swap');
+
+
+.container {
+    display: flex;
+    flex-flow: column;
+}
+
+.containerone {
+     background-color: #1F2937;
+}
+
+.headcontainerone {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    padding: 16px;
+}
+
+.headcontainerone a {
+        text-decoration: none;
+        color: white;
+        font-size: 12px;
+}
+
+.header {
+    font-size: 40px;
+    font-family: "Bungee"
+}
+
+.headcontainertwo {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.headcontainerthree {
+    color: white;
+   
+}
+
+.herotext {
+    font-size: 48px;
+    margin-bottom: 8px;
+    font-family: Bungee;
+   
+}
+
+.herotexttwo {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+button {
+   background-color: rgb(124, 123, 238);
+   color: white;
+   border-radius: 25px;
+   cursor: pointer;
+   
+}
+
+img {
+ margin-bottom: 30px;
+}
+
+.containertwo {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.bodycontainerone {
+
+    border-right: 5px solid black;
+    align-items: center;
+    justify-content: center;
+    padding:50px;
+}
+
+.bodycontaineronea {
+    text-align: center;
+    margin-bottom:30px;
+    margin-top: 5px;
+
+}
+
+.bodyheaderone, .bodyheadertwo {
+        font-family: Bungee;
+        font-size: 50px;
+}
+
+.bodycontaineroneb {
+    display: flex;
+    gap: 40px;
+}
+
+.bodycontainertwo {
+    align-items: center;
+    justify-content: center;
+    padding:50px;
+}
+
+.bodycontainertwoa {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-bottom:30px;
+    margin-top: 5px;
+
+}
+.game {
+    border: 5px solid rgb(56, 56, 158);
+    border-radius: 25px;
+    text-align: center;
+    padding: 7px;
+}
+
+.text {
+    font-family: Bungee;
+    font-size: 25px;
+}
+
+.game2 {
+    
+    border: 5px solid rgb(56, 56, 158);
+    border-radius: 25px;
+    text-align: center;
+    padding: 7px;
+}
+
+.text2 {
+    font-family: Bungee;
+    font-size: 50px;
+}
+
+.containerthree {
+    background-color: rgb(226, 226, 226);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.legstext {
+    padding: 40px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+}
+
+.containerfour {
+    background-color: #1F2937;
+
+}
+
+.footer {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
